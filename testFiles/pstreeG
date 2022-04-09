@@ -1,0 +1,123 @@
+systemd(0qwq(BDiscoverNotifie(0qqq(B3*[{DiscoverNotifie}]
+        (0tq(BModemManager(0qqq(B2*[{ModemManager}]
+        (0tq(BNetworkManager(0qqq(B2*[{NetworkManager}]
+        (0tq(Baccounts-daemon(0qqq(B2*[{accounts-daemon}]
+        (0tq(Bagent(0qqq(B2*[{agent}]
+        (0tq(Bakonadi_control(0qwq(Bakonadi_akonote(0qqq(B3*[{akonadi_akonote}]
+        (0x(B                 (0tq(Bakonadi_archive(0qqq(B8*[{akonadi_archive}]
+        (0x(B                 (0tq(Bakonadi_contact(0qqq(B3*[{akonadi_contact}]
+        (0x(B                 (0tq(Bakonadi_davgrou(0qqq(B4*[{akonadi_davgrou}]
+        (0x(B                 (0tq(Bakonadi_followu(0qqq(B4*[{akonadi_followu}]
+        (0x(B                 (0tq(B2*[akonadi_google_(0qqq(B8*[{akonadi_google_}]]
+        (0x(B                 (0tq(B3*[akonadi_imap_re(0qqq(B10*[{akonadi_imap_re}]]
+        (0x(B                 (0tq(Bakonadi_indexin(0qqq(B3*[{akonadi_indexin}]
+        (0x(B                 (0tq(Bakonadi_maildir(0qqq(B3*[{akonadi_maildir}]
+        (0x(B                 (0tq(Bakonadi_maildis(0qqq(B4*[{akonadi_maildis}]
+        (0x(B                 (0tq(Bakonadi_mailfil(0qqq(B8*[{akonadi_mailfil}]
+        (0x(B                 (0tq(Bakonadi_migrati(0qqq(B3*[{akonadi_migrati}]
+        (0x(B                 (0tq(Bakonadi_newmail(0qqq(B4*[{akonadi_newmail}]
+        (0x(B                 (0tq(Bakonadi_notes_a(0qqq(B5*[{akonadi_notes_a}]
+        (0x(B                 (0tq(Bakonadi_sendlat(0qqq(B8*[{akonadi_sendlat}]
+        (0x(B                 (0tq(Bakonadi_unified(0qqq(B7*[{akonadi_unified}]
+        (0x(B                 (0tq(Bakonadiserver(0qwq(Bmysqld(0qqq(B15*[{mysqld}]
+        (0x(B                 (0x(B               (0mq(B37*[{akonadiserver}]
+        (0x(B                 (0mq(B4*[{akonadi_control}]
+        (0tq(Bat-spi-bus-laun(0qwq(Bdbus-daemon
+        (0x(B                 (0mq(B3*[{at-spi-bus-laun}]
+        (0tq(Bat-spi2-registr(0qqq(B2*[{at-spi2-registr}]
+        (0tq(Bavahi-daemon(0qqq(Bavahi-daemon
+        (0tq(Bbluetoothd
+        (0tq(Bchrome_crashpad(0qqq(B2*[{chrome_crashpad}]
+        (0tq(Bcode(0qwq(Bcode(0qqq(Bcode(0qqq(B9*[{code}]
+        (0x(B      (0tq(Bcode(0qqq(Bcode
+        (0x(B      (0tq(Bcode(0qqq(B4*[{code}]
+        (0x(B      (0tq(Bcode(0qqq(B13*[{code}]
+        (0x(B      (0tq(Bcode(0qwq(Bcode(0qqq(B7*[{code}]
+        (0x(B      (0x(B      (0mq(B12*[{code}]
+        (0x(B      (0tq(Bcode(0qwq(B2*[code(0qqq(B11*[{code}]]
+        (0x(B      (0x(B      (0mq(B18*[{code}]
+        (0x(B      (0mq(B29*[{code}]
+        (0tq(Bcolord(0qqq(B2*[{colord}]
+        (0tq(Bcron
+        (0tq(Bcups-browsed(0qqq(B2*[{cups-browsed}]
+        (0tq(Bcupsd
+        (0tq(Bdbus-daemon
+        (0tq(Bfirefox-esr(0qwq(BPrivileged Cont(0qqq(B26*[{Privileged Cont}]
+        (0x(B             (0tq(BRDD Process(0qqq(B2*[{RDD Process}]
+        (0x(B             (0tq(B2*[Web Content(0qqq(B28*[{Web Content}]]
+        (0x(B             (0tq(BWeb Content(0qqq(B46*[{Web Content}]
+        (0x(B             (0tq(BWeb Content(0qqq(B29*[{Web Content}]
+        (0x(B             (0tq(BWeb Content(0qqq(B30*[{Web Content}]
+        (0x(B             (0tq(B2*[Web Content(0qqq(B27*[{Web Content}]]
+        (0x(B             (0tq(BWeb Content(0qqq(B18*[{Web Content}]
+        (0x(B             (0tq(BWebExtensions(0qqq(B26*[{WebExtensions}]
+        (0x(B             (0mq(B190*[{firefox-esr}]
+        (0tq(Bgmenudbusmenupr(0qqq(B2*[{gmenudbusmenupr}]
+        (0tq(Bhaveged
+        (0tq(Bkaccess(0qqq(B2*[{kaccess}]
+        (0tq(Bkdeconnectd(0qqq(B3*[{kdeconnectd}]
+        (0tq(Bkded5(0qqq(B6*[{kded5}]
+        (0tq(Bkdeinit5(0qwq(B3*[file.so]
+        (0x(B          (0tq(B2*[http.so(0qqq(B{http.so}]
+        (0x(B          (0mq(Bklauncher(0qqq(B2*[{klauncher}]
+        (0tq(Bkorgac(0qqq(B4*[{korgac}]
+        (0tq(Bksmserver(0qqq(B2*[{ksmserver}]
+        (0tq(Bkwin_x11(0qqq(B10*[{kwin_x11}]
+        (0tq(Bnextcloud(0qqq(B14*[{nextcloud}]
+        (0tq(Borg_kde_powerde(0qqq(B4*[{org_kde_powerde}]
+        (0tq(Bpackagekitd(0qqq(B2*[{packagekitd}]
+        (0tq(Bplasmashell(0qwq(Banki(0qwq(BQtWebEngineProc
+        (0x(B             (0x(B      (0tq(BQtWebEngineProc(0qqq(BQtWebEngineProc(0qqq(B3*[QtWebEngineProc(0qqq(B1+
+        (0x(B             (0x(B      (0tq(BQtWebEngineProc(0qqq(B4*[{QtWebEngineProc}]
+        (0x(B             (0x(B      (0mq(B38*[{anki}]
+        (0x(B             (0tq(Bdolphin(0qwq(Bgwenview(0qqq(B7*[{gwenview}]
+        (0x(B             (0x(B         (0mq(B7*[{dolphin}]
+        (0x(B             (0tq(Bkonsole(0qwq(Bbash(0qqq(BstockApi(0qqq(B5*[{stockApi}]
+        (0x(B             (0x(B         (0tq(Bbash(0qqq(Bpstree
+        (0x(B             (0x(B         (0mq(B6*[{konsole}]
+        (0x(B             (0tq(Bkontact(0qwq(BQtWebEngineProc
+        (0x(B             (0x(B         (0tq(BQtWebEngineProc(0qqq(BQtWebEngineProc(0qqq(B2*[QtWebEngineProc(0qqq+
+        (0x(B             (0x(B         (0tq(BQtWebEngineProc(0qqq(B4*[{QtWebEngineProc}]
+        (0x(B             (0x(B         (0mq(B26*[{kontact}]
+        (0x(B             (0tq(Bsignal-desktop(0qwq(Bsignal-desktop(0qqq(Bsignal-desktop(0qqq(B11*[{signal-desktop}]
+        (0x(B             (0x(B                (0tq(Bsignal-desktop
+        (0x(B             (0x(B                (0tq(Bsignal-desktop(0qqq(B4*[{signal-desktop}]
+        (0x(B             (0x(B                (0tq(Bsignal-desktop(0qqq(B31*[{signal-desktop}]
+        (0x(B             (0x(B                (0tq(Bsignal-desktop(0qqq(B5*[{signal-desktop}]
+        (0x(B             (0x(B                (0mq(B33*[{signal-desktop}]
+        (0x(B             (0mq(B33*[{plasmashell}]
+        (0tq(Bpolkit-kde-auth(0qqq(B4*[{polkit-kde-auth}]
+        (0tq(Bpolkitd(0qqq(B2*[{polkitd}]
+        (0tq(Brsyslogd(0qqq(B3*[{rsyslogd}]
+        (0tq(Brtkit-daemon(0qqq(B2*[{rtkit-daemon}]
+        (0tq(Bsddm(0qwq(BXorg(0qqq(B9*[{Xorg}]
+        (0x(B      (0tq(Bsddm-helper(0qqq(Bstartplasma-x11(0qwq(Bssh-agent
+        (0x(B      (0x(B                               (0mq(B{startplasma-x11}
+        (0x(B      (0mq(B{sddm}
+        (0tq(Bsmartd
+        (0tq(Bstart_kdeinit
+        (0tq(Bsystemd(0qwq(B(sd-pam)
+        (0x(B         (0tq(Bdbus-daemon
+        (0x(B         (0tq(Bdconf-service(0qqq(B2*[{dconf-service}]
+        (0x(B         (0tq(Bgnome-keyring-d(0qqq(B3*[{gnome-keyring-d}]
+        (0x(B         (0tq(Bkactivitymanage(0qqq(B5*[{kactivitymanage}]
+        (0x(B         (0tq(Bkglobalaccel5(0qqq(B2*[{kglobalaccel5}]
+        (0x(B         (0tq(Bkiod5(0qqq(B2*[{kiod5}]
+        (0x(B         (0tq(Bkrunner(0qqq(B24*[{krunner}]
+        (0x(B         (0tq(Bkscreen_backend(0qqq(B2*[{kscreen_backend}]
+        (0x(B         (0tq(Bkwalletd5(0qqq(B2*[{kwalletd5}]
+        (0x(B         (0tq(Bobexd
+        (0x(B         (0tq(Bpipewire(0qwq(Bpipewire-media-(0qqq(B{pipewire-media-}
+        (0x(B         (0x(B          (0mq(B{pipewire}
+        (0x(B         (0mq(Bpulseaudio(0qwq(Bgsettings-helpe(0qqq(B3*[{gsettings-helpe}]
+        (0x(B                      (0mq(B6*[{pulseaudio}]
+        (0tq(Bsystemd-journal
+        (0tq(Bsystemd-logind
+        (0tq(Bsystemd-timesyn(0qqq(B{systemd-timesyn}
+        (0tq(Bsystemd-udevd
+        (0tq(Budisksd(0qqq(B4*[{udisksd}]
+        (0tq(Bunattended-upgr(0qqq(B{unattended-upgr}
+        (0tq(Bupowerd(0qqq(B2*[{upowerd}]
+        (0tq(Bwpa_supplicant
+        (0tq(Bxembedsniproxy(0qqq(B2*[{xembedsniproxy}]
+        (0mq(Bxsettingsd

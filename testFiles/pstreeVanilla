@@ -1,0 +1,123 @@
+systemd-+-DiscoverNotifie---3*[{DiscoverNotifie}]
+        |-ModemManager---2*[{ModemManager}]
+        |-NetworkManager---2*[{NetworkManager}]
+        |-accounts-daemon---2*[{accounts-daemon}]
+        |-agent---2*[{agent}]
+        |-akonadi_control-+-akonadi_akonote---3*[{akonadi_akonote}]
+        |                 |-akonadi_archive---8*[{akonadi_archive}]
+        |                 |-akonadi_contact---3*[{akonadi_contact}]
+        |                 |-akonadi_davgrou---4*[{akonadi_davgrou}]
+        |                 |-akonadi_followu---4*[{akonadi_followu}]
+        |                 |-2*[akonadi_google_---8*[{akonadi_google_}]]
+        |                 |-3*[akonadi_imap_re---10*[{akonadi_imap_re}]]
+        |                 |-akonadi_indexin---3*[{akonadi_indexin}]
+        |                 |-akonadi_maildir---3*[{akonadi_maildir}]
+        |                 |-akonadi_maildis---4*[{akonadi_maildis}]
+        |                 |-akonadi_mailfil---8*[{akonadi_mailfil}]
+        |                 |-akonadi_migrati---3*[{akonadi_migrati}]
+        |                 |-akonadi_newmail---4*[{akonadi_newmail}]
+        |                 |-akonadi_notes_a---5*[{akonadi_notes_a}]
+        |                 |-akonadi_sendlat---8*[{akonadi_sendlat}]
+        |                 |-akonadi_unified---7*[{akonadi_unified}]
+        |                 |-akonadiserver-+-mysqld---15*[{mysqld}]
+        |                 |               `-37*[{akonadiserver}]
+        |                 `-4*[{akonadi_control}]
+        |-at-spi-bus-laun-+-dbus-daemon
+        |                 `-3*[{at-spi-bus-laun}]
+        |-at-spi2-registr---2*[{at-spi2-registr}]
+        |-avahi-daemon---avahi-daemon
+        |-bluetoothd
+        |-chrome_crashpad---2*[{chrome_crashpad}]
+        |-code-+-code---code---9*[{code}]
+        |      |-code---code
+        |      |-code---4*[{code}]
+        |      |-code---13*[{code}]
+        |      |-code-+-code---7*[{code}]
+        |      |      `-12*[{code}]
+        |      |-code-+-2*[code---11*[{code}]]
+        |      |      `-18*[{code}]
+        |      `-29*[{code}]
+        |-colord---2*[{colord}]
+        |-cron
+        |-cups-browsed---2*[{cups-browsed}]
+        |-cupsd
+        |-dbus-daemon
+        |-firefox-esr-+-Privileged Cont---26*[{Privileged Cont}]
+        |             |-RDD Process---2*[{RDD Process}]
+        |             |-2*[Web Content---28*[{Web Content}]]
+        |             |-Web Content---46*[{Web Content}]
+        |             |-Web Content---29*[{Web Content}]
+        |             |-Web Content---30*[{Web Content}]
+        |             |-2*[Web Content---27*[{Web Content}]]
+        |             |-Web Content---18*[{Web Content}]
+        |             |-WebExtensions---26*[{WebExtensions}]
+        |             `-190*[{firefox-esr}]
+        |-gmenudbusmenupr---2*[{gmenudbusmenupr}]
+        |-haveged
+        |-kaccess---2*[{kaccess}]
+        |-kdeconnectd---3*[{kdeconnectd}]
+        |-kded5---6*[{kded5}]
+        |-kdeinit5-+-3*[file.so]
+        |          |-2*[http.so---{http.so}]
+        |          `-klauncher---2*[{klauncher}]
+        |-korgac---4*[{korgac}]
+        |-ksmserver---2*[{ksmserver}]
+        |-kwin_x11---10*[{kwin_x11}]
+        |-nextcloud---14*[{nextcloud}]
+        |-org_kde_powerde---4*[{org_kde_powerde}]
+        |-packagekitd---2*[{packagekitd}]
+        |-plasmashell-+-anki-+-QtWebEngineProc
+        |             |      |-QtWebEngineProc---QtWebEngineProc---3*[QtWebEngineProc---11*[{QtWebEngineProc}]]
+        |             |      |-QtWebEngineProc---4*[{QtWebEngineProc}]
+        |             |      `-38*[{anki}]
+        |             |-dolphin-+-gwenview---7*[{gwenview}]
+        |             |         `-7*[{dolphin}]
+        |             |-konsole-+-bash---stockApi---5*[{stockApi}]
+        |             |         |-bash---pstree
+        |             |         `-6*[{konsole}]
+        |             |-kontact-+-QtWebEngineProc
+        |             |         |-QtWebEngineProc---QtWebEngineProc---2*[QtWebEngineProc---11*[{QtWebEngineProc}]]
+        |             |         |-QtWebEngineProc---4*[{QtWebEngineProc}]
+        |             |         `-26*[{kontact}]
+        |             |-signal-desktop-+-signal-desktop---signal-desktop---11*[{signal-desktop}]
+        |             |                |-signal-desktop
+        |             |                |-signal-desktop---4*[{signal-desktop}]
+        |             |                |-signal-desktop---31*[{signal-desktop}]
+        |             |                |-signal-desktop---5*[{signal-desktop}]
+        |             |                `-33*[{signal-desktop}]
+        |             `-33*[{plasmashell}]
+        |-polkit-kde-auth---4*[{polkit-kde-auth}]
+        |-polkitd---2*[{polkitd}]
+        |-rsyslogd---3*[{rsyslogd}]
+        |-rtkit-daemon---2*[{rtkit-daemon}]
+        |-sddm-+-Xorg---9*[{Xorg}]
+        |      |-sddm-helper---startplasma-x11-+-ssh-agent
+        |      |                               `-{startplasma-x11}
+        |      `-{sddm}
+        |-smartd
+        |-start_kdeinit
+        |-systemd-+-(sd-pam)
+        |         |-dbus-daemon
+        |         |-dconf-service---2*[{dconf-service}]
+        |         |-gnome-keyring-d---3*[{gnome-keyring-d}]
+        |         |-kactivitymanage---5*[{kactivitymanage}]
+        |         |-kglobalaccel5---2*[{kglobalaccel5}]
+        |         |-kiod5---2*[{kiod5}]
+        |         |-krunner---24*[{krunner}]
+        |         |-kscreen_backend---2*[{kscreen_backend}]
+        |         |-kwalletd5---2*[{kwalletd5}]
+        |         |-obexd
+        |         |-pipewire-+-pipewire-media----{pipewire-media-}
+        |         |          `-{pipewire}
+        |         `-pulseaudio-+-gsettings-helpe---3*[{gsettings-helpe}]
+        |                      `-6*[{pulseaudio}]
+        |-systemd-journal
+        |-systemd-logind
+        |-systemd-timesyn---{systemd-timesyn}
+        |-systemd-udevd
+        |-udisksd---4*[{udisksd}]
+        |-unattended-upgr---{unattended-upgr}
+        |-upowerd---2*[{upowerd}]
+        |-wpa_supplicant
+        |-xembedsniproxy---2*[{xembedsniproxy}]
+        `-xsettingsd
